@@ -1,0 +1,5 @@
+a=input("enter a")
+b=input("enter b")
+c=input("enter c")
+d=str(int(a)+int(b)-int(c))
+print(a+"+"+b+"-"+c+"="+d)
